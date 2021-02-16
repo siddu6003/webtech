@@ -1,0 +1,77 @@
+#image{
+    margin-top: 20px;
+    height: 250px;
+    width: 400px;
+}
+.line{
+    background-color:palevioletred;
+    height: 10px;
+}
+#viteee{
+    height: fit-content;
+    width: fit-content;
+    display: block;
+    color: maroon;
+    font-size: 50px
+}
+#txt2{
+    height: fit-content;
+    width: fit-content;
+    display: block;
+    color: green;
+    text-align: center;
+    font-size: 60px;
+}
+#regis{
+    margin-top: 200px;
+    margin-left: 30%;
+    border:palevioletred;
+    border-style: solid;
+    border-radius: 10px;
+    width: fit-content;
+    
+}
+#captcha{
+
+    border:red;
+    border-style: solid;
+    width: 150px;
+    text-align: center;
+    
+}
+#login{
+    margin: 10px;
+    font-size: 50px;
+    color: yellowgreen;
+}
+.form{
+    margin-left: 20px;
+    padding: 10px;
+}
+.box{
+    position: absolute;
+    display: inline-block;
+    border: palevioletred;
+    border-style: solid;
+    margin-left: 70px;
+    line-break: auto;
+    
+}
+#button{
+    margin-left: 45%;
+}
+#forgot{
+    margin-left: 70%;
+}
+#p{
+    color: red;
+    font-size: 20px;
+}
+#top{
+    vertical-align: top;
+    float: right;
+    margin-top: 80px;
+    margin-right: 400px;
+    
+}
+
